@@ -10,6 +10,7 @@ int ncr(int n, int r) {
 
 int main() {
     int n, r;
+    printf("_25331a05d8_\n");
 
     printf("Enter n and r: ");
     scanf("%d %d", &n, &r);
